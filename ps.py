@@ -25,8 +25,3 @@ while 1:
 
         archivo.close()
     exit()
-
-
-
-
-
