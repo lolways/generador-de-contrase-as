@@ -24,4 +24,5 @@ while 1:
         archivo.write(nc + ":" + contraseña)
 
         archivo.close()
+    
     exit()
